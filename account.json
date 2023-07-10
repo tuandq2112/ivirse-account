@@ -84,5 +84,29 @@
   {
     "name": "Nguyễn Quang Tuyền",
     "accounts": ["0xa20cF608503f12754BB3eb3dc8AD146eF626Af4B"]
+  },
+  {
+    "name": "Seed 1",
+    "accounts": ["0x69083A989f7B40B9549c9E5c79483f33f600FF90"]
+  },
+  {
+    "name": "Seed 2",
+    "accounts": ["0xE276561c618c98e9C128FA3dEFdF0B5afc572608"]
+  },
+  {
+    "name": "Private 1",
+    "accounts": ["0x444D7c980d6b6Fb4F6f1773A37cF4054E0F61469"]
+  },
+  {
+    "name": "Private 2",
+    "accounts": ["0x123079D60449c1Df618c7E8BE431D6F26FCe8443"]
+  },
+  {
+    "name": "SeandPr 1",
+    "accounts": ["0xf2930AA9cDE9ffcFC6aDF821204C805FdE1459cB"]
+  },
+  {
+    "name": "SeandPr 2",
+    "accounts": ["0x1558568Da4CeE9828AB5425f907Acc69ab94124F"]
   }
 ]
