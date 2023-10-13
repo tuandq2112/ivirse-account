@@ -24,7 +24,19 @@
     "contract": "0x2e5682884828ebf03d9d6d58e872f19274fe74b3"
   },
   {
-    "name":"test",
-    "contract":"0x93c2c94e68150698c50849f820bf07793d767c96"
+    "name":"test1",
+    "contract":"0x88c1a0ef7a416ae59e3414ed8c29dca845323a85"
+  },
+  {
+    "name":"test2",
+    "contract":"0x5d03345691d049873311c7dcb0c8e50b8348f506"
+  },
+  {
+    "name":"test3",
+    "contract":"0x9378b81703baa1aabef344f3f747b5b112ec8117"
+  },
+  {
+    "name":"test4",
+    "contract":"0xd142ea0873fe83b33661caccb2a65292d93fbe52"
   }
 ]
