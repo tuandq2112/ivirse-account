@@ -22,21 +22,5 @@
     "name": "Làng ẩm thực sakura",
     "address": "0x3b6378d68f150e1731394badb5fb9aae2c6dea16",
     "contract": "0x2e5682884828ebf03d9d6d58e872f19274fe74b3"
-  },
-  {
-    "name":"test1",
-    "contract":"0x88c1a0ef7a416ae59e3414ed8c29dca845323a85"
-  },
-  {
-    "name":"test2",
-    "contract":"0x5d03345691d049873311c7dcb0c8e50b8348f506"
-  },
-  {
-    "name":"test3",
-    "contract":"0x9378b81703baa1aabef344f3f747b5b112ec8117"
-  },
-  {
-    "name":"test4",
-    "contract":"0xd142ea0873fe83b33661caccb2a65292d93fbe52"
   }
 ]
