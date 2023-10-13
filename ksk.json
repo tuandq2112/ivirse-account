@@ -1,22 +1,26 @@
 [
   {
-    "name": "IVIE - Tròn vị",
-    "contract": "0xdae1a2eeca2d8bfcdf799e7848a51db56a7e6493"
-  },
-  {
-    "name": "Cô Tấm",
+    "name": "Đội 1: IVIE - Tròn vị",
     "contract": "0xa7ddc7c5bd24b737ea0955a8e45ed11cee6de48e"
   },
   {
-    "name": "Ăn là nhớ",
-    "contract": "0x68c8a19be6d3a949e573f1df4b241dd9af93aef7"
+    "name": "Đội 2: Say",
+    "contract": "0x6eb1dc35434b9c532aee04cdbe76f114e6b90a38"
   },
   {
-    "name": "Làng ẩm thực sakura",
+    "name": "Đội 3: Làng ẩm thực sakura",
     "contract": "0x2e5682884828ebf03d9d6d58e872f19274fe74b3"
   },
   {
-    "name": "Làng heo",
-    "contract": "0xd142ea0873fe83b33661caccb2a65292d93fbe52"
+    "name": "Đội 4: Ăn là nhớ",
+    "contract": "0xdae1a2eeca2d8bfcdf799e7848a51db56a7e6493"
+  },
+  {
+    "name": "Đội 5: Cô Tấm",
+    "contract": "0x68c8a19be6d3a949e573f1df4b241dd9af93aef7"
+  },
+  {
+    "name": "Đội 6: Hương vị tình thân",
+    "contract": "0x778c04521d1dbdc29c53b37a6967ba53a056e480"
   }
 ]
